@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="GUIplatten:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/GUIplatten_jar</output-path>
-    <root id="archive" name="GUIplatten.jar">
-      <element id="module-output" name="VinylCollectionM120" />
-    </root>
-  </artifact>
-</component>
