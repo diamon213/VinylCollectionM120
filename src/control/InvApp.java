@@ -1,6 +1,6 @@
-package app;
+package control;
 
-import gui.TableView;
+import view.TableView;
 import model.DataModel;
 
 /**

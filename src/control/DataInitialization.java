@@ -1,4 +1,4 @@
-package app;
+package control;
 
 import model.Album;
 import model.DataModel;

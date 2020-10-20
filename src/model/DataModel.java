@@ -7,7 +7,7 @@ package model; /**
  * @author Aladin Boudouda
  *
  */
-import app.DataInitialization;
+import control.DataInitialization;
 
 import java.awt.*;
 
